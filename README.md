@@ -1,8 +1,5 @@
-Hi I'm IggySamma,
+Hi,
 
-Currently self-teaching to become a developer.
-Teaching myself with my ideas and then just going to docs.
-Not using any frameworks to learn the basics of languages and learning to become a generalist.
-
-Currently working on a website for my significant other's hobby, and using it as my basis to learn about web development.
-I don't plan on being a web dev, but just my first project to get into development and get an understanding of how the web works.
+My name is IggySamma, and I am currently self-teaching software development. 
+I am focusing on mastering programming languages through hands-on projects, relying on official documentation for guidance. 
+My approach is to learn the fundamentals without the use of frameworks, with the goal of becoming a well-rounded generalist developer.
